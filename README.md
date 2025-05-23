@@ -31,21 +31,11 @@ The objective of this project was to answer 10 critical business questions using
 - Chi-square tests for statistical significance
 
 ## Project Structure
-employee-attrition-analysis/
-│
-├── data/                       # Raw and processed data files (e.g. .csv, .xlsx)
-│   └── IBM_HR_Analytics.xlsx
-│
-├── notebooks/                  # Jupyter Notebooks for exploration and visualization
-│   └── AttritionProject.ipynb
-│
-├── sql_queries/                # SQL scripts used for data querying and analysis
-│   └── Solution.sql
-│
-├── presentation/               # Final presentation slides
-│   └── Employee_Attrition_Simbiat.pdf
-│
-├── README.md                   # Project overview and documentation
+- Data - IBM_HR_Analytics.xlsx  # Raw and processed data files (e.g. .csv, .xlsx)
+- Notebooks - AttritionProject.ipynb   # Jupyter Notebooks for exploration and visualization
+- Sql_queries - Solution.sql  # SQL scripts used for data querying and analysis
+- Presentation - Employee_Attrition_Simbiat.pdf    # Final presentation slides
+- README.md     # Project overview and documentation
 
 ## Findings Summary
 - Departments like Sales and R&D show different attrition levels.
