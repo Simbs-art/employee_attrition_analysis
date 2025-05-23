@@ -31,7 +31,7 @@ The objective of this project was to answer 10 critical business questions using
 - Chi-square tests for statistical significance
 
 ## Project Structure
-- Data - IBM_HR_Analytics.xlsx  # Raw and processed data files (e.g. .csv, .xlsx)
+- Data - IBM_HR_Analytics. Link(https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - Notebooks - AttritionProject.ipynb   # Jupyter Notebooks for exploration and visualization
 - Sql_queries - Solution.sql  # SQL scripts used for data querying and analysis
 - Presentation - Employee_Attrition_Simbiat.pdf    # Final presentation slides
